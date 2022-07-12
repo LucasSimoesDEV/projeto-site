@@ -17,6 +17,9 @@ main{
     margin: auto;
     box-shadow: 3px 3px 5px rgba(0,0,0,.4);
 }
+p {
+    text-align: justify;
+}
 h1{
     font-size: 2em;
     color: blue;
