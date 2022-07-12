@@ -9,6 +9,8 @@ img.lado{
     float: right;
 }
 main{
+    font-family: arial, helvetica, sans-serif;
+    font-size: 16pt;
     padding: 10px;
     background-color: White;
     width: 500px;
