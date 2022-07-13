@@ -5,11 +5,36 @@
 body{
 background-color: rgb(204,157,248);
 }
-
+img.lado{
+    float: right;
+}
 main{
+    font-family: arial, helvetica, sans-serif;
+    font-size: 16pt;
     padding: 10px;
     background-color: White;
     width: 500px;
     margin: auto;
     box-shadow: 3px 3px 5px rgba(0,0,0,.4);
 }
+p {
+    text-align: justify;
+}
+h1{
+    font-size: 2em;
+    color: blue;
+}
+h2{
+    font-size: 1.5em;
+    color: blue;
+}
+a {
+    text-decoration: none;
+    font-weight: bold;
+    color: blue;
+}
+ a:hover{
+text-decoration: underline;
+color: blueviolet;
+
+ }
